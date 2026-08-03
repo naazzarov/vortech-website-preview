@@ -1,2 +1,2 @@
-:HL["/vortech-website-preview/_next/static/chunks/05ipj8u0_hr70.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":20,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"giBvUI74nJKYRBdPjj03H"}
+:HL["/vortech-website-preview/_next/static/chunks/0n1-0dwe125ue.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":20,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"RANOL5uBa9PMoK9l9LLDT"}
