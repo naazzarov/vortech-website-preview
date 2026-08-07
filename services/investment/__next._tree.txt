@@ -1,4 +1,4 @@
 :HL["/vortech-website-preview/_next/static/chunks/0idn.vb59k8yz.css","style"]
 :HL["/vortech-website-preview/_next/static/media/0c89a48fa5027cee-s.p.0rd3rjvnnhw7n.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/vortech-website-preview/_next/static/media/8800dfc60902df36-s.p.127vvh92c894b.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":20,"slots":{"children":{"name":"services","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"investment","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"S3gAklNqjFBfPlmTuNKSI"}
+0:{"tree":{"name":"","param":null,"prefetchHints":20,"slots":{"children":{"name":"services","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"investment","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"iwWaT9dR6_BrrpG0Ae4A3"}
