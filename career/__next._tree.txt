@@ -1,4 +1,4 @@
 :HL["/vortech-website-preview/_next/static/chunks/0f3biof4e35x2.css","style"]
 :HL["/vortech-website-preview/_next/static/media/0c89a48fa5027cee-s.p.0rd3rjvnnhw7n.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/vortech-website-preview/_next/static/media/8800dfc60902df36-s.p.127vvh92c894b.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":20,"slots":{"children":{"name":"career","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"-IxCQHZJojn3q0841PIF1"}
+0:{"tree":{"name":"","param":null,"prefetchHints":20,"slots":{"children":{"name":"career","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"Db1CXh3f-fB-lB5ptUcPb"}

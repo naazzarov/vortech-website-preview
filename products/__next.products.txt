@@ -2,4 +2,4 @@
 2:I[39756,["/vortech-website-preview/_next/static/chunks/13v80qinvaike.js","/vortech-website-preview/_next/static/chunks/148z6olechg3p.js","/vortech-website-preview/_next/static/chunks/0luuh~q9bt72z.js","/vortech-website-preview/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
 3:I[37457,["/vortech-website-preview/_next/static/chunks/13v80qinvaike.js","/vortech-website-preview/_next/static/chunks/148z6olechg3p.js","/vortech-website-preview/_next/static/chunks/0luuh~q9bt72z.js","/vortech-website-preview/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
 4:[]
-0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"-IxCQHZJojn3q0841PIF1"}
+0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"Db1CXh3f-fB-lB5ptUcPb"}
