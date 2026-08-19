@@ -1,4 +1,4 @@
-:HL["/vortech-website-preview/_next/static/chunks/0hba.of4mr6np.css","style"]
+:HL["/vortech-website-preview/_next/static/chunks/0h34u_xtb7oky.css","style"]
 :HL["/vortech-website-preview/_next/static/media/0c89a48fa5027cee-s.p.0rd3rjvnnhw7n.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/vortech-website-preview/_next/static/media/8800dfc60902df36-s.p.127vvh92c894b.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":20,"slots":{"children":{"name":"products","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"moneta","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"Nr3LxrLDJ7cx7RLPJT9fp"}
+0:{"tree":{"name":"","param":null,"prefetchHints":20,"slots":{"children":{"name":"products","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"moneta","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"b-2Q0VjNe3MQVlfCrgS8u"}
