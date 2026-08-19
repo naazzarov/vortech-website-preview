@@ -1,5 +1,8 @@
 {
- "name": "App",
+ "name": "Vortech Corp",
+ "short_name": "Vortech Corp",
+ "theme_color": "#0e3792",
+ "background_color": "#050b1a",
  "icons": [
   {
    "src": "\/android-icon-36x36.png",
