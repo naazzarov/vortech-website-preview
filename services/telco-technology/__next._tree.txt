@@ -1,4 +1,4 @@
-:HL["/vortech-website-preview/_next/static/chunks/09.tneq_x4xad.css","style"]
+:HL["/vortech-website-preview/_next/static/chunks/0~tnepd7i_ses.css","style"]
 :HL["/vortech-website-preview/_next/static/media/0c89a48fa5027cee-s.p.0rd3rjvnnhw7n.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/vortech-website-preview/_next/static/media/8800dfc60902df36-s.p.127vvh92c894b.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":20,"slots":{"children":{"name":"services","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"telco-technology","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"rWezUROkLoSZRYS1k8NjP"}
+0:{"tree":{"name":"","param":null,"prefetchHints":20,"slots":{"children":{"name":"services","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"telco-technology","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"25wJUjnaWhAJXWIAqcZNu"}
